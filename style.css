@@ -108,13 +108,10 @@ footer {
   font-style: normal;
   font-weight: normal;
   line-height: 100%;
-  font-size: clamp(16px, 2.5vw, 18px);
+  font-size: clamp(12px, 2.5vw, 18px);
   color: #1c1c1c;
   cursor: pointer;
 }
 
-footer img {
-  width: 30px;
-}
 @media (max-width: 600px) {
 }
